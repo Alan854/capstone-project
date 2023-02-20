@@ -46,4 +46,6 @@ other colors #6096B4 blue
 
 p
 font-family: 'maven pro'
-![Alt text](skateboard1.jpg)
+
+navbar info
+https://www.makeuseof.com/responsive-navigation-bar-using-html-and-css/
