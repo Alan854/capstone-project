@@ -7,11 +7,16 @@ body {
 }
 
 h1 {
+    color: black;
     font-family: 'Maven Pro', sans-serif;
+    padding: 20px 0;
+    text-align: center;
 }
 
 h2 {
+    color: #FDA769;
     font-family: 'Maven Pro', sans-serif;
+    padding: 25px;
 }
 
 li {
@@ -35,7 +40,7 @@ p{
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: teal;
+    background-color: #3A98B9;
     color: #fff;
 }
 
@@ -47,6 +52,7 @@ p{
 
 .logo {
     font-size: 32px;
+    color:#FDA769;
 }
 
 /* NAVBAR MENU */
@@ -58,7 +64,7 @@ p{
 }
 
 .menu li:hover {
-    background-color: #4c9e9e;
+    background-color: #FDA769;
     border-radius: 5px;
     transition: 0.3s ease;
 }
@@ -74,7 +80,7 @@ p{
 }
 
 .dropdown {
-    background-color: rgb(1, 139, 139);
+    background-color: #FFD384;
     padding: 1em 0;
     position: absolute; /*WITH RESPECT TO PARENT*/
     display: none;
@@ -152,6 +158,20 @@ input[type=checkbox] {
 }
 
 /* SKATE 1 CSS */
+
+.header {
+    background-color: #000;
+}
+
+.paragraph {
+    align-items: center;
+    background-color: #3A98B9;
+    color: #FFD384;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0 20px 50px;
+}
 
 .profile-pic {
     display: block;
