@@ -179,3 +179,39 @@ input[type=checkbox] {
     margin-right: auto;
     width: 35%;
 }
+
+/* SKATE 2 CSS */
+
+#sign-up {
+    display: block;
+}
+
+form {
+    text-align: center;
+}
+
+button,
+input,
+select,
+textarea {
+    box-sizing: border-box;
+    display: block;
+  font-family: inherit;
+  font-size: 100%;
+  margin: auto;
+  padding: 0;
+  width: 150px;
+}
+
+.field-Form {
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 16px;
+}
+
+.form-css {
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 16px;
+    background: #F7F7F7;
+}
